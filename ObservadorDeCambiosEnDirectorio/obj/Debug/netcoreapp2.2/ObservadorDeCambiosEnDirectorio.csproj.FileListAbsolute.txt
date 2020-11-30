@@ -1,0 +1,11 @@
+C:\Users\Nicolin\source\repos\ObservadorDeCambiosEnDirectorio\ObservadorDeCambiosEnDirectorio\bin\Debug\netcoreapp2.2\ObservadorDeCambiosEnDirectorio.deps.json
+C:\Users\Nicolin\source\repos\ObservadorDeCambiosEnDirectorio\ObservadorDeCambiosEnDirectorio\bin\Debug\netcoreapp2.2\ObservadorDeCambiosEnDirectorio.runtimeconfig.json
+C:\Users\Nicolin\source\repos\ObservadorDeCambiosEnDirectorio\ObservadorDeCambiosEnDirectorio\bin\Debug\netcoreapp2.2\ObservadorDeCambiosEnDirectorio.runtimeconfig.dev.json
+C:\Users\Nicolin\source\repos\ObservadorDeCambiosEnDirectorio\ObservadorDeCambiosEnDirectorio\bin\Debug\netcoreapp2.2\ObservadorDeCambiosEnDirectorio.dll
+C:\Users\Nicolin\source\repos\ObservadorDeCambiosEnDirectorio\ObservadorDeCambiosEnDirectorio\obj\Debug\netcoreapp2.2\ObservadorDeCambiosEnDirectorio.csprojAssemblyReference.cache
+C:\Users\Nicolin\source\repos\ObservadorDeCambiosEnDirectorio\ObservadorDeCambiosEnDirectorio\obj\Debug\netcoreapp2.2\ObservadorDeCambiosEnDirectorio.csproj.CoreCompileInputs.cache
+C:\Users\Nicolin\source\repos\ObservadorDeCambiosEnDirectorio\ObservadorDeCambiosEnDirectorio\obj\Debug\netcoreapp2.2\ObservadorDeCambiosEnDirectorio.AssemblyInfoInputs.cache
+C:\Users\Nicolin\source\repos\ObservadorDeCambiosEnDirectorio\ObservadorDeCambiosEnDirectorio\obj\Debug\netcoreapp2.2\ObservadorDeCambiosEnDirectorio.AssemblyInfo.cs
+C:\Users\Nicolin\source\repos\ObservadorDeCambiosEnDirectorio\ObservadorDeCambiosEnDirectorio\bin\Debug\netcoreapp2.2\ObservadorDeCambiosEnDirectorio.pdb
+C:\Users\Nicolin\source\repos\ObservadorDeCambiosEnDirectorio\ObservadorDeCambiosEnDirectorio\obj\Debug\netcoreapp2.2\ObservadorDeCambiosEnDirectorio.dll
+C:\Users\Nicolin\source\repos\ObservadorDeCambiosEnDirectorio\ObservadorDeCambiosEnDirectorio\obj\Debug\netcoreapp2.2\ObservadorDeCambiosEnDirectorio.pdb
